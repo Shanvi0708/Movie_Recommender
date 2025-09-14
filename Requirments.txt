@@ -1,0 +1,7 @@
+Technologies Used
+
+Python 3.7+
+pandas: Data manipulation and analysis
+NumPy: Numerical computing
+scikit-learn: Machine learning algorithms (TF-IDF, Cosine Similarity)
+matplotlib & seaborn: Data visualization
