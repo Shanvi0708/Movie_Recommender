@@ -1,6 +1,4 @@
 # Movie Recommendation System
-# A complete beginner-friendly project for AI engineering students
-
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -284,4 +282,5 @@ def main():
     print("- Experiment with different similarity metrics")
 
 if __name__ == "__main__":
+
     main()
